@@ -1,4 +1,4 @@
-# DevMountain Part-Time Syllabus
+# DevMountain Web After-Hours Syllabus
 
 
 - [Week 1](#week1)
