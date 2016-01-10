@@ -246,9 +246,9 @@
 
 #### <a name="day32"></a> Day 2 - JS Fundamentals III
 - Pre-Reading:
-    - [Javascript Fundamentals II & III](https://vimeo.com/groups/345952/videos/148132097) - Same video as yesterday. 2 hours 22 minutes.
+  - [JS is Sexy - Objects](http://javascriptissexy.com/javascript-objects-in-detail/)
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [Javascript Fundamentals II & III](https://vimeo.com/groups/345952/videos/148132097) - Same video as yesterday. 2 hours 22 minutes.
 - Learning Objectives
   - Students will understand how Objects differ from Arrays
   - Students will understand use cases for objects
