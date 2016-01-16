@@ -155,9 +155,9 @@
 
 #### <a name="day13"></a> Day 3 - HTML & CSS Positioning
 - Pre-Reading:
-  - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position) 1 Hour 45 Minutes
+  - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position) 
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/345952/videos/147626538)
+  - [HTML/CSS Positioning](https://vimeo.com/groups/345952/videos/147626538) 1 Hour 45 Minutes
 - Learning Objectives
   - Students will be able to use Chrome Dev Tools to inspect their HTML/CSS
   - Students will understand the purpose of CSS
