@@ -176,7 +176,7 @@
 - Pre-Reading:
   - [Positioning in CSS](http://quirksmode.org/css/css2/position.html)
 - Lesson Video:
-  - [Advanced HTML & CSS](https://vimeo.com/groups/345952/videos/147756391) 1 Hour 52 Minutes
+  - [Advanced HTML & CSS](https://vimeo.com/groups/345952/videos/140814999) 1 Hour 52 Minutes
 - Learning Objectives
   - Students will understand and be able to explain the box model to someone else
   - Students will understand media queries and be able to implement them
