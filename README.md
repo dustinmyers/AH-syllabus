@@ -155,7 +155,7 @@
 
 #### <a name="day13"></a> Day 3 - HTML & CSS Positioning
 - Pre-Reading:
-  - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position) 
+  - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/345952/videos/147626538) 1 Hour 45 Minutes
 - Learning Objectives
@@ -323,8 +323,8 @@
 - Project:
   - [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
 
-## <a name="week4"></a> Week 4
-#### <a name="day41"></a> Day 1 - jQuery I
+## <a name="week5"></a> Week 5
+#### <a name="day51"></a> Day 1 - jQuery I
 - Pre-Reading:
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
@@ -341,7 +341,7 @@
 - Assessment
   - [jQuery I](https://codecard.io/a/cardio-preview/N4mpVQGj2)
 
-#### <a name="day42"></a> Day 2 - jQuery II
+#### <a name="day52"></a> Day 2 - jQuery II
 - Pre-Reading:
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
@@ -355,7 +355,7 @@
   - [Twitter Clone](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
 
-#### <a name="day42"></a> Day 2 - AngularJS I
+#### <a name="day53"></a> Day 2 - AngularJS I
 - Pre-Reading:
   - [Starting with Angular](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
   - [Conceptual Intro to Angular](http://paislee.io/a-conceptual-introduction-to-angularjs/)
@@ -372,13 +372,14 @@
   - Students will be able to filter data
 - Project:
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
-- Weeklong Project: 
+- Weeklong Project:
   - [DevMt.In](https://github.com/DevMountain/dev-mt-in)   
 - Additional Reading:
 - Assessment
   - [AngularJS Day 1](https://codecard.io/a/cardio-preview/B4yCwFR8R)
 
-#### <a name="day43"></a> Day 3 - AngularJS II
+## <a name="week6"></a> Week 6
+#### <a name="day61"></a> Day 1 - AngularJS II
 - Pre-Reading:
   - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 - Lesson Video:
@@ -396,8 +397,7 @@
 - Assessment
   - [AngularJS II - Services](https://codecard.io/a/cardio-preview/dYsMX9ChR)
 
-## <a name="week5"></a> Week 5
-#### <a name="day51"></a> Day 1 - AngularJS III
+#### <a name="day62"></a> Day 2 - AngularJS III
 - Pre-Reading:
   - [Angular's $http](https://egghead.io/lessons/angularjs-http)
   - [Promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
@@ -416,7 +416,7 @@
 - Assessment
   - [AngularJS III - $http](https://codecard.io/a/cardio-preview/7465nq9JV)
 
-#### <a name="day52"></a> Day 2 - AngularJS IV
+#### <a name="day63"></a> Day 3 - AngularJS IV
 - Pre-Reading:
   - [$q](http://www.webdeveasy.com/javascript-promises-and-angularjs-q-service/)
 - Lesson Video:
@@ -430,17 +430,17 @@
 - Project:
   - [iTunes API](https://github.com/DevMountain/itunes)
 - Additional Reading:
-  - [The Power of Q](https://www.youtube.com/watch?v=33kl0iQByME) 
+  - [The Power of Q](https://www.youtube.com/watch?v=33kl0iQByME)
   - [JSONP](https://en.wikipedia.org/wiki/JSONP)
 - Assessment
   - [AngularJS IV - APIs](https://codecard.io/a/cardio-preview/Bri37FtZV)
 
-#### <a name="day53"></a> Day 3 -Angular Review I
+## <a name="week"7></a> Week 6
+#### <a name="day71"></a> Day 1 -Angular Review I
 
 ## In-class practice project : [Angular Drills](https://github.com/DevMountain/angular-drills)
 
-## <a name="week6"></a> Week 6
-#### <a name="day61"></a> Day 1 - Angular V
+#### <a name="day72"></a> Day 2 - Angular V
 - Pre-Reading:
   - [Routing with UI-Router](https://scotch.io/tutorials/angular-routing-using-ui-router)
 - Lesson Video:
@@ -461,7 +461,7 @@
 - Assessment
   - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
 
-#### <a name="day62"></a> Day 2 - Angular VI
+#### <a name="day73"></a> Day 3 - Angular VI
 - Pre-Reading:
   - [Directives](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
 - Lesson Video:
@@ -479,11 +479,11 @@
 - Assessment
   - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
 
-#### <a name="day63"></a> Day 3 - Angular Review II
+## <a name="week8"></a> Week 8
+#### <a name="day81"></a> Day 1 - Angular Review II
 - Review Day
 
-## <a name="week7"></a> Week 7
-#### <a name="day71"></a> Day 1 -  Firebase
+#### <a name="day82"></a> Day 2 -  Firebase
 - Pre-Reading:
   - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
 - Lesson Video:
@@ -496,12 +496,13 @@
   - [Real Time Forum](https://github.com/DevMountain/rtfm)
 - Additional Reading:
 
-#### <a name="day72"></a> Day 2 - Firebase II & No Server Project
+#### <a name="day83"></a> Day 3 - Firebase II & No Server Project
 - Learning Objectives
   - Students will understand how to use Firebase's authentication system
   - Students will start on their no server project
 
-#### <a name="day73"></a> Day 3 - No Server Project
+## <a name="week9"></a> Week 9
+#### <a name="day91"></a> Day 1 - No Server Project
 - Requirements
   - At least 3 routes
   - At least 2 directives
@@ -511,10 +512,9 @@
     - This should take a back seat to making a solid project with angular
   - [Bonus 2] Make it look nice!  Styling is important to employers.  It's important to practice.  Feel free to Google for 'inspiration' to mimic.
 
-## <a name="week8"></a> Week 8
-#### <a name="day81"></a> Day 1 - No Server Project
+#### <a name="day92"></a> Day 2 - No Server Project
 
-#### <a name="day82"></a> Day 2 - NodeJS I
+#### <a name="day93"></a> Day 3 - NodeJS I
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
@@ -532,7 +532,8 @@
 - Additional Reading:
   - https://www.thenewboston.com/videos.php?cat=355
 
-#### <a name="day83"></a> Day 3 - NodeJS II
+## <a name="week10"></a> Week 10
+#### <a name="day101"></a> Day 1 - NodeJS II
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
@@ -548,8 +549,7 @@
   - [Personal API](https://github.com/DevMountain/personal-api)
 - Additional Reading:
 
-## <a name="week9"></a> Week 9
-#### <a name="day91"></a> Day 1 - NodeJS III
+#### <a name="day102"></a> Day 2 - NodeJS III
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
@@ -566,7 +566,7 @@
 - Additional Reading:
 
 
-#### <a name="day92"></a> Day 2 - MongoDB I
+#### <a name="day103"></a> Day 3 - MongoDB I
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Before class:
@@ -583,7 +583,8 @@
   - [eCommerce I](https://github.com/DevMountain/ecommerce/blob/master/README.md)
 - Additional Reading:
 
-#### <a name="day93"></a> Day 3 - MongoDB II
+## <a name="week11"></a> Week 11
+#### <a name="day111"></a> Day 1 - MongoDB II
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
@@ -595,8 +596,7 @@
   - [eCommerce II](https://github.com/DevMountain/ecommerce/blob/master/part-two.md)
 - Additional Reading:
 
-## <a name="week10"></a> Week 10
-#### <a name="day101"></a> Day 1 -  MongoDB III
+#### <a name="day112"></a> Day 2 -  MongoDB III
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
  - Mini Project:
@@ -608,8 +608,8 @@
  - Project:
    - [eCommerce III](https://github.com/DevMountain/ecommerce/blob/master/part-three.md)
  - Additional Reading:
- 
- #### <a name="day102"></a> Day 2 - NodeJS IV
+
+#### <a name="day113"></a> Day 3 - NodeJS IV
  - Lesson Video:
    - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
@@ -622,10 +622,10 @@
   - [Coder Friends](https://github.com/DevMountain/CoderFriends)
 - Additional Reading:
 
-#### <a name="day103"></a> Day 3 -  Personal Projects
+## <a name="week12"></a> Week 12
+#### <a name="day121"></a> Day 1 -  Personal Projects
 
-## <a name="week11"></a> Week 11
-#### <a name="day111"></a> Day 1 - React I
+#### <a name="day122"></a> Day 2 - React I
 - Pre-Reading:
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
@@ -644,7 +644,7 @@ CSS in React
   - [todo-collection](https://github.com/ReactWeek/todo-collection)
 - Additional Reading:
 
-#### <a name="day112"></a> Day 2 - React II
+#### <a name="day123"></a> Day 3 - React II
 - Pre-Reading:
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
@@ -652,29 +652,27 @@ CSS in React
   - [mini-chatroom](https://github.com/ReactWeek/mini2-chatroom)
 - Learning Objectives
   - Understand the Life Cycle of a Components
-  - Understand how to use propTypes and getDefaultProps 
+  - Understand how to use propTypes and getDefaultProps
   - Understand what Mixins are and how they’re useful
   - How to use React w/ jQuery and specifically to make Ajax requests
 - Project:
   - [react-tunes](https://github.com/ReactWeek/react-tunes)
 - Additional Reading:
 
-#### <a name="day113"></a> Day 3 - React III
+## <a name="week13"></a> Week 13
+#### <a name="day131"></a> Day 1 - React III
 - Pre-Reading:
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [mini-flux](https://github.com/ReactWeek/mini4-todoflux)
 - Learning Objectives
-  - Understand the purpose and benefits of Flux
-  - Understand how to architect a Flux app with the following 
+  - Understand the purpose and benefits of Redux
+  - Understand how to architect a Redux app with the following
     - actions
-    - stores
-    - constants
-    - dispatcher
     - components
+    - containers
+    - reducers
 - Project:
   - [note-taker](https://github.com/ReactWeek/github-notetaker)
 - Additional Reading:
-
-
