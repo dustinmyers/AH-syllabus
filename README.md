@@ -327,7 +327,7 @@
 #### <a name="day51"></a> Day 1 - jQuery I
 - Pre-Reading:
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [HTML/CSS Positioning](https://vimeo.com/groups/345952/videos/148521032)
 - Mini Project:
   - [Paint](https://github.com/DevMountain/mini-paint)
 - Learning Objectives
@@ -344,7 +344,7 @@
 #### <a name="day52"></a> Day 2 - jQuery II
 - Pre-Reading:
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - No video for this lesson. Class will be a review/project day!
 - Mini Project:
   - [Ajax](https://github.com/DevMountain/mini-ajax)
 - Learning Objectives
