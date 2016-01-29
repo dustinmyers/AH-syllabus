@@ -326,8 +326,9 @@
 ## <a name="week5"></a> Week 5
 #### <a name="day51"></a> Day 1 - jQuery I
 - Pre-Reading:
+  - Find a video or an article that explains what the DOM is
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/345952/videos/148521032)
+  - [jQuery I - Manipulating the DOM](https://vimeo.com/groups/345952/videos/148521032)
 - Mini Project:
   - [Paint](https://github.com/DevMountain/mini-paint)
 - Learning Objectives
