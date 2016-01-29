@@ -355,7 +355,7 @@
   - [Twitter Clone](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
 
-#### <a name="day53"></a> Day 2 - AngularJS I
+#### <a name="day53"></a> Day 3 - AngularJS I
 - Pre-Reading:
   - [Starting with Angular](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
   - [Conceptual Intro to Angular](http://paislee.io/a-conceptual-introduction-to-angularjs/)
