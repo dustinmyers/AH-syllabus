@@ -345,39 +345,25 @@
 #### <a name="day52"></a> Day 2 - jQuery II
 - Pre-Reading:
 - Lesson Video:
-  - No video for this lesson. Class will be a review/project day!
-- Mini Project:
-  - [Ajax](https://github.com/DevMountain/mini-ajax)
+  - No video for this lesson. Review yesterday's project, then start today's project. 
 - Learning Objectives
-  - Students will Understand CRUD
-  - Students will be able to make GET and POST requests
-  - Students will understand why AJAX is important
+  - Students will understand the DOM
+  - Students will be able to make basic manipulations to the DOM
+  - Students will understand visual and functional purpose of the jQuery
+- Project:
+  - [Twitter Clone](https://github.com/DevMountain/twitter-clone)
+
+
+#### <a name="day53"></a> Day 3 - jQuery II cont.
+- Lesson Video 
+  - No video for today. Continue working on the Twitter Clone project. 
+- Learning Objectives
+  - Students will understand the DOM
+  - Students will be able to make basic manipulations to the DOM
 - Project:
   - [Twitter Clone](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
-
-#### <a name="day53"></a> Day 3 - AngularJS I
-- Pre-Reading:
-  - [Starting with Angular](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
-  - [Conceptual Intro to Angular](http://paislee.io/a-conceptual-introduction-to-angularjs/)
-  - [Watch "Angular in 60-ish Minutes"](https://www.youtube.com/watch?v=i9MHigUZKEM)
-- Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
-- Mini Project:
-  - [Babies first Angular](https://github.com/DevMountain/mini-BabiesFirstAngular)
-- Learning Objectives
-  - Students will understand the difference between jQuery and Angular and how Angular fits into the web app          landscape
-  - Students will understand what a module, controller, directive, and service is in angular
-  - Students will be able to, from scratch, build a basic angular application, put data on a controller's scope,      and bind that data to the view
-  - Students will be able to ng-repeat over data
-  - Students will be able to filter data
-- Project:
-  - [Angular Friends](https://github.com/DevMountain/angular-friends)
-- Weeklong Project:
-  - [DevMt.In](https://github.com/DevMountain/dev-mt-in)   
-- Additional Reading:
-- Assessment
-  - [AngularJS Day 1](https://codecard.io/a/cardio-preview/B4yCwFR8R)
+- Assessment:
 
 ## <a name="week6"></a> Week 6
 #### <a name="day61"></a> Day 1 - AngularJS II
