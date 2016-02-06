@@ -366,11 +366,34 @@
 - Assessment:
 
 ## <a name="week6"></a> Week 6
-#### <a name="day61"></a> Day 1 - AngularJS II
+#### <a name="day61"></a> Day 1 - AngularJS I		
+- Pre-Reading:
+  - [Starting with Angular](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
+  - [Conceptual Intro to Angular](http://paislee.io/a-conceptual-introduction-to-angularjs/)
+  - [Watch "Angular in 60-ish Minutes"](https://www.youtube.com/watch?v=i9MHigUZKEM)
+- Lesson Video:
+  - [Angular I - Intro to Angular](https://vimeo.com/groups/345952/videos/148916498)
+- Mini Project:
+  - [Babies first Angular](https://github.com/DevMountain/mini-BabiesFirstAngular)
+- Learning Objectives
+  - Students will understand the difference between jQuery and Angular and how Angular fits into the web app          landscape
+  - Students will understand what a module, controller, directive, and service is in angular
+  - Students will be able to, from scratch, build a basic angular application, put data on a controller's scope,      and bind that data to the view
+  - Students will be able to ng-repeat over data
+  - Students will be able to filter data
+- Weeklong Project: 
+  - [DevMt.In - Day One](https://github.com/DevMountain/dev-mt-in)   
+- Additional Reading:
+- Assessment
+  - [AngularJS Day 1](https://codecard.io/a/cardio-preview/B4yCwFR8R)
+- Additional Project:
+  - [Angular Friends](https://github.com/DevMountain/angular-friends)
+
+#### <a name="day62"></a> Day 2 - AngularJS II
 - Pre-Reading:
   - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [Angular II - Services](https://vimeo.com/groups/345952/videos/149049333)
 - Mini Project:
   - [User Profiles](https://github.com/DevMountain/mini-userProfiles)
 - Learning Objectives
@@ -379,17 +402,26 @@
   - Students will know how to call methods on their services from in their controllers and put the response on        $scope
   - know the difference between factories and services
 - Project:
-  - [Quote Book](https://github.com/DevMountain/quoteBook)
+  - [DevMt.In - Day Two](https://github.com/DevMountain/dev-mt-in)
 - Additional Reading:
 - Assessment
   - [AngularJS II - Services](https://codecard.io/a/cardio-preview/dYsMX9ChR)
+- Additional Project:
+  - [Quote Book](https://github.com/DevMountain/quoteBook)
 
-#### <a name="day62"></a> Day 2 - AngularJS III
+#### <a name="day63"></a> Day 3 - AngularJS Workday
+- Lesson Video:
+  - No video today. Continue working on the Angular project, mini-projects, or the additional projects.
+- Project:
+  - [DevMt.In - Day Three](https://github.com/DevMountain/dev-mt-in)
+
+## <a name="week"7></a> Week 7
+#### <a name="day71"></a> Day 7 - AngularJS III
 - Pre-Reading:
   - [Angular's $http](https://egghead.io/lessons/angularjs-http)
   - [Promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [Angular III - $http](https://vimeo.com/groups/345952/videos/149219126)
 - Mini Project:
   - [User Profiles II](https://github.com/DevMountain/mini-userProfiles2)
 - Learning Objectives
@@ -398,22 +430,26 @@
   - Students will be able to explain what AJAX is
   - Students will make an ajax request with angular, call .then on the promise and add that data to the $scope
 - Project:
-  - [Chatroom](https://github.com/DevMountain/chatroom)
+  - [DevMt.In - Day Three](https://github.com/DevMountain/dev-mt-in)
 - Additional Reading:
 - Assessment
   - [AngularJS III - $http](https://codecard.io/a/cardio-preview/7465nq9JV)
+- Additional Project:
+  - [Chatroom](https://github.com/DevMountain/chatroom)
 
-#### <a name="day63"></a> Day 3 - AngularJS IV
+#### <a name="day72"></a> Day 2 - Angular IV
 - Pre-Reading:
   - [$q](http://www.webdeveasy.com/javascript-promises-and-angularjs-q-service/)
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [Angular IV - $q Promises](https://vimeo.com/groups/345952/videos/149314314)
 - Mini Project:
   - [User Profile III](https://github.com/DevMountain/mini-userProfiles3)
 - Learning Objectives
   - Students will be able to make $http requests to various APIs
   - Students will be able to use outside directives and know how to inject those modules into their application
   - Students will be able to create, return, and resolve their own promises with $q
+- Project:
+  - [DevMt.In - Day Four](https://github.com/DevMountain/dev-mt-in)
 - Project:
   - [iTunes API](https://github.com/DevMountain/itunes)
 - Additional Reading:
@@ -422,12 +458,12 @@
 - Assessment
   - [AngularJS IV - APIs](https://codecard.io/a/cardio-preview/Bri37FtZV)
 
-## <a name="week"7></a> Week 6
-#### <a name="day71"></a> Day 1 -Angular Review I
+#### <a name="day73"></a> Day 3 - Angular Review I
 
 ## In-class practice project : [Angular Drills](https://github.com/DevMountain/angular-drills)
 
-#### <a name="day72"></a> Day 2 - Angular V
+## <a name="week8"></a> Week 8
+#### <a name="day81"></a> Day 1 - Angular V
 - Pre-Reading:
   - [Routing with UI-Router](https://scotch.io/tutorials/angular-routing-using-ui-router)
 - Lesson Video:
@@ -448,7 +484,7 @@
 - Assessment
   - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
 
-#### <a name="day73"></a> Day 3 - Angular VI
+#### <a name="day82"></a> Day 2 - Angular VI
 - Pre-Reading:
   - [Directives](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
 - Lesson Video:
@@ -466,8 +502,7 @@
 - Assessment
   - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
 
-## <a name="week8"></a> Week 8
-#### <a name="day81"></a> Day 1 - Angular Review II
+#### <a name="day83"></a> Day 3 - Angular Review II
 - Review Day
 
 #### <a name="day82"></a> Day 2 -  Firebase
