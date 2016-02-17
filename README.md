@@ -436,6 +436,8 @@
   - [AngularJS III - $http](https://codecard.io/a/cardio-preview/7465nq9JV)
 - Additional Project:
   - [Chatroom](https://github.com/DevMountain/chatroom)
+- Class Survey:
+  - [Today's Survey](http://goo.gl/forms/5T4w28Vmlf)
 
 #### <a name="day72"></a> Day 2 - Angular IV
 - Pre-Reading:
@@ -457,6 +459,8 @@
   - [JSONP](https://en.wikipedia.org/wiki/JSONP)
 - Assessment
   - [AngularJS IV - APIs](https://codecard.io/a/cardio-preview/Bri37FtZV)
+- Class Survey:
+  - [Today's Survey](http://goo.gl/forms/5T4w28Vmlf)
 
 #### <a name="day73"></a> Day 3 - Angular Review I
 
@@ -483,6 +487,8 @@
 - Additional Reading:
 - Assessment
   - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
+- Class Survey:
+  - [Today's Survey](http://goo.gl/forms/5T4w28Vmlf)
 
 #### <a name="day82"></a> Day 2 - Angular VI
 - Pre-Reading:
