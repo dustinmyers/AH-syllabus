@@ -416,7 +416,7 @@
   - [DevMt.In - Day Three](https://github.com/DevMountain/dev-mt-in)
 
 ## <a name="week"7></a> Week 7
-#### <a name="day71"></a> Day 7 - AngularJS III
+#### <a name="day71"></a> Day 1 - AngularJS III
 - Pre-Reading:
   - [Angular's $http](https://egghead.io/lessons/angularjs-http)
   - [Promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
