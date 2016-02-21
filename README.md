@@ -437,7 +437,7 @@
 - Additional Project:
   - [Chatroom](https://github.com/DevMountain/chatroom)
 - Class Survey:
-  - [Today's Survey](http://goo.gl/forms/5T4w28Vmlf)
+  - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
 #### <a name="day72"></a> Day 2 - Angular IV
 - Pre-Reading:
@@ -460,18 +460,20 @@
 - Assessment
   - [AngularJS IV - APIs](https://codecard.io/a/cardio-preview/Bri37FtZV)
 - Class Survey:
-  - [Today's Survey](http://goo.gl/forms/5T4w28Vmlf)
+  - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
 #### <a name="day73"></a> Day 3 - Angular Review I
 
 ## In-class practice project : [Angular Drills](https://github.com/DevMountain/angular-drills)
+- Class Survey:
+  - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
 ## <a name="week8"></a> Week 8
 #### <a name="day81"></a> Day 1 - Angular V
 - Pre-Reading:
   - [Routing with UI-Router](https://scotch.io/tutorials/angular-routing-using-ui-router)
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - Coming very shortly - sorry :(
 - Install these before class!:
   - [Install Node - Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
   - [Install Node - Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
@@ -483,66 +485,107 @@
   - Students will be able to use resolve to resolve data and pass in data to their controller before theirn controller initializes
   - Students will be able to use stateParams to gather data from the URL
 - Project:
-  - [NBA Routes](https://github.com/DevMountain/nbaRoutes)
+  - [Quiz App Repo](https://github.com/DevMountain/quiz) (Use this to reference the Githun repo)
+  - [Quiz App Project Guide - Day 1](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
 - Additional Reading:
 - Assessment
   - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
 - Class Survey:
-  - [Today's Survey](http://goo.gl/forms/5T4w28Vmlf)
+  - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
-#### <a name="day82"></a> Day 2 - Angular VI
+#### <a name="day82"></a> Day 2 - Angular V Workday
+- Pre-Reading:
+  - [Routing with UI-Router](https://scotch.io/tutorials/angular-routing-using-ui-router)
+- Lesson Video:
+  - No video for today's class
+- Install these before class!:
+  - [Install Node - Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
+  - [Install Node - Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
+- Mini Project:
+  - [Quiz](https://github.com/DevMountain/mini-Routing)
+- Learning Objectives
+  - Students will understand the methodology behind routing and templating
+  - Students will be able to set up a basic routing system with multiple views and controllers using UI-Router
+  - Students will be able to use resolve to resolve data and pass in data to their controller before theirn controller initializes
+  - Students will be able to use stateParams to gather data from the URL
+- Project:
+  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 1](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
+- Additional Reading:
+- Assessment
+  - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
+- Class Survey:
+  - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
+
+#### <a name="day83"></a> Day 3 - Angular VI
 - Pre-Reading:
   - [Directives](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - Coming soon...
 - Mini Project:
   - [Time Directive](https://github.com/DevMountain/mini-timeDirective)
 - Learning Objectives
   - Students will understand how Directives fit into the Angular ecosystem
   - Students will be able to create a custom directive and use it in a view
 - Project:
-  - [Lesson Hider Directive](https://github.com/DevMountain/lesson-hider-directive)
+  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 2](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
 - Additional Reading:
   - [PRankings Directive](https://github.com/squireaj/PRankings)
   - [Dave Smith Presentation on Custom Directives](https://www.youtube.com/watch?v=UMkd0nYmLzY)
 - Assessment
   - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
+- Class Survey:
+  - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
-#### <a name="day83"></a> Day 3 - Angular Review II
-- Review Day
+## <a name="week9"></a> Week 9
+#### <a name="day91"></a> Day 1 -  Angular VI Workday
+- Pre-Reading:
+  - [Directives](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
+- Lesson Video:
+  - No video for today's lesson
+- Mini Project:
+  - [Time Directive](https://github.com/DevMountain/mini-timeDirective)
+- Learning Objectives
+  - Students will understand how Directives fit into the Angular ecosystem
+  - Students will be able to create a custom directive and use it in a view
+- Project:
+  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 2](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
+- Additional Reading:
+  - [PRankings Directive](https://github.com/squireaj/PRankings)
+  - [Dave Smith Presentation on Custom Directives](https://www.youtube.com/watch?v=UMkd0nYmLzY)
+- Assessment
+  - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
+- Class Survey:
+  - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
-#### <a name="day82"></a> Day 2 -  Firebase
+#### <a name="day92"></a> Day 2 - Firebase I
 - Pre-Reading:
   - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - Coming soon...
 - Learning Objectives
   - Students will understand the term CRUD
   - Students will be able to use Firebase in angular to persist data to a server
 - Mini-Project : [CarFire](https://github.com/DevMountain/carFire)
 - Project:
-  - [Real Time Forum](https://github.com/DevMountain/rtfm)
+  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 3](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
 - Additional Reading:
+- Class Survey:
+  - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
-#### <a name="day83"></a> Day 3 - Firebase II & No Server Project
-- Learning Objectives
-  - Students will understand how to use Firebase's authentication system
-  - Students will start on their no server project
+#### <a name="day93"></a> Day 3 - Angular & Firebase Review II
+- Review & Finish Quiz App
+- Project:
+  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 3 and BD's](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
+- Class Survey:
+  - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
-## <a name="week9"></a> Week 9
-#### <a name="day91"></a> Day 1 - No Server Project
-- Requirements
-  - At least 3 routes
-  - At least 2 directives
-    - 1 directive can be just a templateUrl for code re-use
-    - 1 directive needs to do some javascript (event if it's just elem.css({}) in the link function)
-  - [Bonus] Use Firebase or an API
-    - This should take a back seat to making a solid project with angular
-  - [Bonus 2] Make it look nice!  Styling is important to employers.  It's important to practice.  Feel free to Google for 'inspiration' to mimic.
-
-#### <a name="day92"></a> Day 2 - No Server Project
-
-#### <a name="day93"></a> Day 3 - NodeJS I
+## <a name="week10"></a> Week 10
+#### <a name="day101"></a> Day 1 - NodeJS I
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
@@ -560,7 +603,6 @@
 - Additional Reading:
   - https://www.thenewboston.com/videos.php?cat=355
 
-## <a name="week10"></a> Week 10
 #### <a name="day101"></a> Day 1 - NodeJS II
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
