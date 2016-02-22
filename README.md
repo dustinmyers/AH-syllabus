@@ -473,7 +473,7 @@
 - Pre-Reading:
   - [Routing with UI-Router](https://scotch.io/tutorials/angular-routing-using-ui-router)
 - Lesson Video:
-  - Coming very shortly - sorry :(
+  - [Routing](https://vimeo.com/groups/345952/videos/150700908) - 1 hour 7 minutes
 - Install these before class!:
   - [Install Node - Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
   - [Install Node - Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
@@ -521,7 +521,7 @@
 - Pre-Reading:
   - [Directives](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
 - Lesson Video:
-  - Coming soon...
+  - [Directives](https://vimeo.com/groups/345952/videos/150825409) - 1 hour 41 minutes
 - Mini Project:
   - [Time Directive](https://github.com/DevMountain/mini-timeDirective)
 - Learning Objectives
@@ -564,7 +564,7 @@
 - Pre-Reading:
   - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
 - Lesson Video:
-  - Coming soon...
+  - [Firebase](https://vimeo.com/groups/345952/videos/150932130) - 1 hour 42 minutes
 - Learning Objectives
   - Students will understand the term CRUD
   - Students will be able to use Firebase in angular to persist data to a server
