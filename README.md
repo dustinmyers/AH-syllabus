@@ -415,7 +415,7 @@
 - Project:
   - [DevMt.In - Day Three](https://github.com/DevMountain/dev-mt-in)
 
-## <a name="week"7></a> Week 7
+## <a name="week7"></a> Week 7
 #### <a name="day71"></a> Day 1 - AngularJS III
 - Pre-Reading:
   - [Angular's $http](https://egghead.io/lessons/angularjs-http)
@@ -603,7 +603,7 @@
 - Additional Reading:
   - https://www.thenewboston.com/videos.php?cat=355
 
-#### <a name="day101"></a> Day 1 - NodeJS II
+#### <a name="day102"></a> Day 2 - NodeJS II
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
@@ -619,7 +619,7 @@
   - [Personal API](https://github.com/DevMountain/personal-api)
 - Additional Reading:
 
-#### <a name="day102"></a> Day 2 - NodeJS III
+#### <a name="day103"></a> Day 3 - NodeJS III
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
@@ -635,8 +635,8 @@
   - [User Profiles](https://github.com/DevMountain/user-profiles)
 - Additional Reading:
 
-
-#### <a name="day103"></a> Day 3 - MongoDB I
+## <a name="week11"></a> Week 11
+#### <a name="day111"></a> Day 1 - MongoDB I
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Before class:
@@ -653,8 +653,7 @@
   - [eCommerce I](https://github.com/DevMountain/ecommerce/blob/master/README.md)
 - Additional Reading:
 
-## <a name="week11"></a> Week 11
-#### <a name="day111"></a> Day 1 - MongoDB II
+#### <a name="day112"></a> Day 2 - MongoDB II
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
@@ -666,7 +665,7 @@
   - [eCommerce II](https://github.com/DevMountain/ecommerce/blob/master/part-two.md)
 - Additional Reading:
 
-#### <a name="day112"></a> Day 2 -  MongoDB III
+#### <a name="day113"></a> Day 3 -  MongoDB III
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
  - Mini Project:
@@ -679,7 +678,8 @@
    - [eCommerce III](https://github.com/DevMountain/ecommerce/blob/master/part-three.md)
  - Additional Reading:
 
-#### <a name="day113"></a> Day 3 - NodeJS IV
+## <a name="week12"></a> Week 12
+#### <a name="day121"></a> Day 1 - NodeJS IV
  - Lesson Video:
    - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
@@ -692,8 +692,7 @@
   - [Coder Friends](https://github.com/DevMountain/CoderFriends)
 - Additional Reading:
 
-## <a name="week12"></a> Week 12
-#### <a name="day121"></a> Day 1 -  Personal Projects
+#### <a name="day122"></a> Day 2 -  Personal Projects
 
 #### <a name="day122"></a> Day 2 - React I
 - Pre-Reading:
