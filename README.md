@@ -587,7 +587,7 @@
 ## <a name="week10"></a> Week 10
 #### <a name="day101"></a> Day 1 - NodeJS I
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [NodeJS I](https://vimeo.com/groups/345952/videos/151691575) 2 hours 42 minutes
 - Mini Project:
   - [Siri](https://github.com/DevMountain/Siri)
 - Learning Objectives
@@ -605,7 +605,7 @@
 
 #### <a name="day102"></a> Day 2 - NodeJS II
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [NodeJS II](https://vimeo.com/groups/345952/videos/151814040) 1 hour 55 minutes
 - Mini Project:
   - Rewrite in Progress
 - Learning Objectives
@@ -621,7 +621,7 @@
 
 #### <a name="day103"></a> Day 3 - NodeJS III
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [Node III](https://vimeo.com/groups/345952/videos/145906798) 2 hours 10 minutes
 - Mini Project:
   - Rewrite in Progress
 - Lesson Video:
@@ -638,7 +638,7 @@
 ## <a name="week11"></a> Week 11
 #### <a name="day111"></a> Day 1 - MongoDB I
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [Mongo I](https://vimeo.com/groups/345952/videos/140831164) 1 hour 41 minutes
 - Before class:
   - Make sure you've installed MongoDB ([Mac](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/) or [PC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/))
 - Lesson Video:
@@ -655,7 +655,7 @@
 
 #### <a name="day112"></a> Day 2 - MongoDB II
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [Mongo II](https://vimeo.com/groups/345952/videos/146151652) 1 hour 20 minutes
 - Mini Project:
   - [Mini-Birds Mongoose](https://github.com/DevMountain/mini-birds-mongoose)
 - Learning Objectives
@@ -667,7 +667,7 @@
 
 #### <a name="day113"></a> Day 3 -  MongoDB III
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [Mongo III](https://vimeo.com/groups/345952/videos/145931488) 1 hour 40 minutes
  - Mini Project:
   - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/day2README.md)
  - Learning Objectives
