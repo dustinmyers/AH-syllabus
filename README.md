@@ -599,7 +599,8 @@
   - Student can create a HTTP NodeJS server using express
   - Students can explain endpoints and create basic ones testing them with Postman
 - Project:
-  - [Chatty](https://github.com/DevMountain/chatty)
+  - [Quiz App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 1](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
 - Additional Reading:
   - https://www.thenewboston.com/videos.php?cat=355
 
@@ -616,7 +617,8 @@
   - Student understands the request response lifecycle in express including the order in which functions are called
   - Student can utilize middleware
 - Project:
-  - [Personal API](https://github.com/DevMountain/personal-api)
+  - [Quiz App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 2](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
 - Additional Reading:
 
 #### <a name="day103"></a> Day 3 - NodeJS III
@@ -632,7 +634,8 @@
   - Student can use route params to make dynamic endpoints
   - Student can build a front-end Angular application that connects to a back-end NodeJS API
 - Project:
-  - [User Profiles](https://github.com/DevMountain/user-profiles)
+  - [Quiz App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 3](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
 - Additional Reading:
 
 ## <a name="week11"></a> Week 11
@@ -650,7 +653,8 @@
    - Understand DBs, Collections, and Documents
    - Understand CRUD operations with MongoDB
 - Project:
-  - [eCommerce I](https://github.com/DevMountain/ecommerce/blob/master/README.md)
+  - [Quiz App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 4](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
 - Additional Reading:
 
 #### <a name="day112"></a> Day 2 - MongoDB II
@@ -662,7 +666,8 @@
   - understand what object modeling is and why it’s used
   - understand the difference between Mongoose and MongoJS
 - Project:
-  - [eCommerce II](https://github.com/DevMountain/ecommerce/blob/master/part-two.md)
+  - [Quiz App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 5](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
 - Additional Reading:
 
 #### <a name="day113"></a> Day 3 -  MongoDB III
@@ -674,8 +679,9 @@
   - Understand the concept of relationships
   - Understand the different types of relationships, and when to use them
   - Understand how and when to use embedded and referential schemas
- - Project:
-   - [eCommerce III](https://github.com/DevMountain/ecommerce/blob/master/part-three.md)
+- Project:
+  - [Quiz App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 6](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
  - Additional Reading:
 
 ## <a name="week12"></a> Week 12
