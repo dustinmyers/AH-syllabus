@@ -626,8 +626,6 @@
   - [Node III](https://vimeo.com/groups/345952/videos/145906798) 2 hours 10 minutes
 - Mini Project:
   - Rewrite in Progress
-- Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Learning Objectives
   - Student can use Express to serve static files
   - Student can use routing in Express to create basic API endpoints
