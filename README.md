@@ -707,7 +707,7 @@
 
 #### <a name="day132"></a> Day 2 -  Ecommerce Project Day V
 
-#### <a name="day123"></a> Day 3 -  Ecommerce Project Day VI & Code Reviews
+#### <a name="day133"></a> Day 3 -  Ecommerce Project Day VI & Code Reviews
 
 ## <a name="week14"></a> Week 14
 #### <a name="day141"></a> Day 1 -  Ecommerce Project Day VII
