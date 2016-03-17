@@ -587,7 +587,7 @@
 ## <a name="week10"></a> Week 10
 #### <a name="day101"></a> Day 1 - NodeJS I
 - Lesson Video:
-  - [NodeJS I](https://vimeo.com/groups/345952/videos/151691575) 2 hours 42 minutes
+  - [NodeJS I](https://vimeo.com/groups/345952/videos/151691575) - 2 hours 42 minutes
 - Mini Project:
   - [Siri](https://github.com/DevMountain/Siri)
 - Learning Objectives
@@ -606,7 +606,7 @@
 
 #### <a name="day102"></a> Day 2 - NodeJS II
 - Lesson Video:
-  - [NodeJS II](https://vimeo.com/groups/345952/videos/151814040) 1 hour 55 minutes
+  - [NodeJS II](https://vimeo.com/groups/345952/videos/151814040) - 1 hour 55 minutes
 - Mini Project:
   - Rewrite in Progress
 - Learning Objectives
@@ -623,7 +623,7 @@
 
 #### <a name="day103"></a> Day 3 - NodeJS III
 - Lesson Video:
-  - [Node III](https://vimeo.com/groups/345952/videos/145906798) 2 hours 10 minutes
+  - [Node III](https://vimeo.com/groups/345952/videos/145906798) - 2 hours 10 minutes
 - Mini Project:
   - Rewrite in Progress
 - Lesson Video:
@@ -641,7 +641,7 @@
 ## <a name="week11"></a> Week 11
 #### <a name="day111"></a> Day 1 - MongoDB I
 - Lesson Video:
-  - [Mongo I](https://vimeo.com/groups/345952/videos/140831164) 1 hour 41 minutes
+  - [Mongo I](https://vimeo.com/groups/345952/videos/140831164) - 1 hour 41 minutes
 - Before class:
   - Make sure you've installed MongoDB ([Mac](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/) or [PC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/))
 - Lesson Video:
@@ -659,7 +659,7 @@
 
 #### <a name="day112"></a> Day 2 - MongoDB II
 - Lesson Video:
-  - [Mongo II](https://vimeo.com/groups/345952/videos/146151652) 1 hour 20 minutes
+  - [Mongo II](https://vimeo.com/groups/345952/videos/146151652) - 1 hour 20 minutes
 - Mini Project:
   - [Mini-Birds Mongoose](https://github.com/DevMountain/mini-birds-mongoose)
 - Learning Objectives
@@ -672,7 +672,7 @@
 
 #### <a name="day113"></a> Day 3 -  MongoDB III
 - Lesson Video:
-  - [Mongo III](https://vimeo.com/groups/345952/videos/145931488) 1 hour 40 minutes
+  - [Mongo III](https://vimeo.com/groups/345952/videos/145931488) - 1 hour 40 minutes
  - Mini Project:
   - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/day2README.md)
  - Learning Objectives
@@ -685,9 +685,9 @@
  - Additional Reading:
 
 ## <a name="week12"></a> Week 12
-#### <a name="day121"></a> Day 1 - NodeJS IV
+#### <a name="day121"></a> Day 1 - NodeJS IV & Ecommerce Project
  - Lesson Video:
-   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+   - [NodeJS Auth - Passport](https://vimeo.com/groups/devmtnaf/videos/158525109) - 1 hour 13 minutes
 - Mini Project:
   - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
 - Learning Objectives
@@ -698,9 +698,26 @@
   - [Coder Friends](https://github.com/DevMountain/CoderFriends)
 - Additional Reading:
 
-#### <a name="day122"></a> Day 2 -  Personal Projects
+#### <a name="day122"></a> Day 2 -  Ecommerce Project Day II
 
-#### <a name="day122"></a> Day 2 - React I
+#### <a name="day123"></a> Day 3 -  Ecommerce Project Day III & Code Reviews
+
+## <a name="week13"></a> Week 13
+#### <a name="day131"></a> Day 1 -  Ecommerce Project Day IV
+
+#### <a name="day132"></a> Day 2 -  Ecommerce Project Day V
+
+#### <a name="day123"></a> Day 3 -  Ecommerce Project Day VI & Code Reviews
+
+## <a name="week14"></a> Week 14
+#### <a name="day141"></a> Day 1 -  Ecommerce Project Day VII
+
+#### <a name="day142"></a> Day 2 -  Ecommerce Project Day VIII
+
+#### <a name="day143"></a> Day 3 -  Ecommerce Project Day IX & Code Reviews
+
+## <a name="week15"></a> Week 15
+#### <a name="day151"></a> Day 1 - React I
 - Pre-Reading:
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
@@ -714,12 +731,26 @@
   - Understand how to use CSS with React as well as “inline” styles
 CSS in React
   - Understand how to keep your components state up to date as well as invoke other methods in your component.
-
 - Project:
   - [todo-collection](https://github.com/ReactWeek/todo-collection)
 - Additional Reading:
 
-#### <a name="day123"></a> Day 3 - React II
+#### <a name="day152"></a> Day 2 - React I Workday
+- Pre-Reading:
+- Lesson Video:
+  No Video for Today
+- Mini Project:
+  - [mini-chatroom](https://github.com/ReactWeek/mini2-chatroom)
+- Learning Objectives
+  - Understand the Life Cycle of a Components
+  - Understand how to use propTypes and getDefaultProps
+  - Understand what Mixins are and how they’re useful
+  - How to use React w/ jQuery and specifically to make Ajax requests
+- Project:
+  - [react-tunes](https://github.com/ReactWeek/react-tunes)
+- Additional Reading:
+
+#### <a name="day153"></a> Day 3 - React II
 - Pre-Reading:
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
@@ -734,8 +765,23 @@ CSS in React
   - [react-tunes](https://github.com/ReactWeek/react-tunes)
 - Additional Reading:
 
-## <a name="week13"></a> Week 13
-#### <a name="day131"></a> Day 1 - React III
+## <a name="week16"></a> Week 16
+#### <a name="day161"></a> Day 1 - React II Workday
+- Pre-Reading:
+- Lesson Video:
+  No Video for Today
+- Mini Project:
+  - [mini-chatroom](https://github.com/ReactWeek/mini2-chatroom)
+- Learning Objectives
+  - Understand the Life Cycle of a Components
+  - Understand how to use propTypes and getDefaultProps
+  - Understand what Mixins are and how they’re useful
+  - How to use React w/ jQuery and specifically to make Ajax requests
+- Project:
+  - [react-tunes](https://github.com/ReactWeek/react-tunes)
+- Additional Reading:
+
+#### <a name="day162"></a> Day 2 - React III
 - Pre-Reading:
 - Lesson Video:
   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
@@ -750,4 +796,19 @@ CSS in React
     - reducers
 - Project:
   - [note-taker](https://github.com/ReactWeek/github-notetaker)
+- Additional Reading:
+
+#### <a name="day163"></a> Day 3 - Final Workday / Class Wrap-up
+- Pre-Reading:
+- Lesson Video:
+  No Video for Today
+- Mini Project:
+  - [mini-chatroom](https://github.com/ReactWeek/mini2-chatroom)
+- Learning Objectives
+  - Understand the Life Cycle of a Components
+  - Understand how to use propTypes and getDefaultProps
+  - Understand what Mixins are and how they’re useful
+  - How to use React w/ jQuery and specifically to make Ajax requests
+- Project:
+  - [react-tunes](https://github.com/ReactWeek/react-tunes)
 - Additional Reading:
