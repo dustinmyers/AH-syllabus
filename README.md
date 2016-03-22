@@ -697,50 +697,50 @@
   - Student can use express sessions to restrict access to resources
   - Student can use passport to authenticate users with providers like Twitter, Facebook, etc.
 - Project:
-  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
   - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 - Additional Reading:
 
 #### <a name="day122"></a> Day 2 -  Ecommerce Project Day II
 - Project:
-  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
   - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 #### <a name="day123"></a> Day 3 -  Ecommerce Project Day III & Code Reviews
 - Project:
-  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
   - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 ## <a name="week13"></a> Week 13
 #### <a name="day131"></a> Day 1 -  Ecommerce Project Day IV
 - Project:
-  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
   - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 #### <a name="day132"></a> Day 2 -  Ecommerce Project Day V
 - Project:
-  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
   - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 #### <a name="day133"></a> Day 3 -  Ecommerce Project Day VI & Code Reviews
 - Project:
-  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
   - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 ## <a name="week14"></a> Week 14
 #### <a name="day141"></a> Day 1 -  Ecommerce Project Day VII
 - Project:
-  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
   - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 #### <a name="day142"></a> Day 2 -  Ecommerce Project Day VIII
 - Project:
-  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
   - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 #### <a name="day143"></a> Day 3 -  Ecommerce Project Day IX & Code Reviews
 - Project:
-  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Repo](https://github.com/DevMountain/ecommerce)
   - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 ## <a name="week15"></a> Week 15
