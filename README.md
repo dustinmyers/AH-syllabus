@@ -1,3 +1,5 @@
+<img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
+
 # DevMountain Web After-Hours Syllabus
 
 
@@ -695,26 +697,51 @@
   - Student can use express sessions to restrict access to resources
   - Student can use passport to authenticate users with providers like Twitter, Facebook, etc.
 - Project:
-  - [Coder Friends](https://github.com/DevMountain/CoderFriends)
+  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 - Additional Reading:
 
 #### <a name="day122"></a> Day 2 -  Ecommerce Project Day II
+- Project:
+  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 #### <a name="day123"></a> Day 3 -  Ecommerce Project Day III & Code Reviews
+- Project:
+  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 ## <a name="week13"></a> Week 13
 #### <a name="day131"></a> Day 1 -  Ecommerce Project Day IV
+- Project:
+  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 #### <a name="day132"></a> Day 2 -  Ecommerce Project Day V
+- Project:
+  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 #### <a name="day133"></a> Day 3 -  Ecommerce Project Day VI & Code Reviews
+- Project:
+  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 ## <a name="week14"></a> Week 14
 #### <a name="day141"></a> Day 1 -  Ecommerce Project Day VII
+- Project:
+  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 #### <a name="day142"></a> Day 2 -  Ecommerce Project Day VIII
+- Project:
+  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 #### <a name="day143"></a> Day 3 -  Ecommerce Project Day IX & Code Reviews
+- Project:
+  - [Ecommerce Rep](https://github.com/DevMountain/ecommerce)
+  - [Ecommerce Project Guide](http://projectguide.devmounta.in/#/ecommerce)
 
 ## <a name="week15"></a> Week 15
 #### <a name="day151"></a> Day 1 - React I
@@ -802,13 +829,11 @@ CSS in React
 - Pre-Reading:
 - Lesson Video:
   No Video for Today
-- Mini Project:
-  - [mini-chatroom](https://github.com/ReactWeek/mini2-chatroom)
-- Learning Objectives
-  - Understand the Life Cycle of a Components
-  - Understand how to use propTypes and getDefaultProps
-  - Understand what Mixins are and how they’re useful
-  - How to use React w/ jQuery and specifically to make Ajax requests
-- Project:
-  - [react-tunes](https://github.com/ReactWeek/react-tunes)
-- Additional Reading:
+
+### Copyright
+
+####
+
+© DevMountain LLC, 2015. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
+
+<img src="https://devmounta.in/img/logowhiteblue.png" width="250">
