@@ -1,6 +1,6 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
-# DevMountain Web After-Hours Syllabus
+## DevMountain Web After-Hours Syllabus
 
 
 - [Week 1](#week1)
