@@ -747,7 +747,7 @@
 #### <a name="day151"></a> Day 1 - React I
 - Pre-Reading:
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  No video for this lesson.
 - Mini Project:
   - [mini-todo-list](https://github.com/ReactWeek/mini1-todolist)
 - Learning Objectives
@@ -780,7 +780,7 @@ CSS in React
 #### <a name="day153"></a> Day 3 - React II
 - Pre-Reading:
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  No video for this lesson.
 - Mini Project:
   - [mini-chatroom](https://github.com/ReactWeek/mini2-chatroom)
 - Learning Objectives
@@ -811,7 +811,7 @@ CSS in React
 #### <a name="day162"></a> Day 2 - React III
 - Pre-Reading:
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  No video for this lesson.
 - Mini Project:
   - [mini-flux](https://github.com/ReactWeek/mini4-todoflux)
 - Learning Objectives
