@@ -629,7 +629,7 @@
 - Mini Project:
   - Rewrite in Progress
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [NodeJS III](https://vimeo.com/groups/devmtnaf/videos/145906798)
 - Learning Objectives
   - Student can use Express to serve static files
   - Student can use routing in Express to create basic API endpoints
@@ -647,7 +647,7 @@
 - Before class:
   - Make sure you've installed MongoDB ([Mac](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/) or [PC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/))
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [Mongo I](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [Birds](https://github.com/jacob-israel-turner/mini-birds)
 - Learning Objectives
