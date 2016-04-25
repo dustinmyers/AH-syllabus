@@ -86,6 +86,73 @@
 
 ## <a name="week1"></a> Week 1
 #### <a name="day11"></a>Day 1 - Github & Version Control
+
+<script type="text/javascript" src="http://content.jwplatform.com/libraries/v4GQk7Uq.js"></script>
+
+<div id='videoPlayer'></div>
+
+This Lesson:
+<ul>
+	<li><a href="javascript:loadPlaylistItem(0)">What is Git?</a></li>
+	<li><a href="javascript:loadPlaylistItem(1)">Create a Repository and use Command Line to Clone</a></li>
+	<li><a href="javascript:loadPlaylistItem(2)">Making Changes</a></li>
+	<li><a href="javascript:loadPlaylistItem(3)">Git Commands: Status, Add, Commit, & Push</a></li>
+	<li><a href="javascript:loadPlaylistItem(4)">Git Commands: Fetch and Pull</a></li>
+	<li><a href="javascript:loadPlaylistItem(5)">Forking</a></li>
+	<li><a href="javascript:loadPlaylistItem(6)">Branches</a></li>
+	<li><a href="javascript:loadPlaylistItem(7)">Class.DevMounta.in & Q Info</a></li>
+</ul>
+
+<script type="text/javascript">
+	var playerInstance = jwplayer("videoPlayer");
+		playerInstance.setup({
+			playlist: [{
+								file: 'http://54.200.225.18:1935/vods3/_definst_/mp4:amazons3/webdevvideos/AF-Lesson1-Git/1-lesson1-git-whatisgit_720.mp4/playlist.m3u8',
+								title: 'What is Git?'
+						},
+						{
+							file: 'http://54.200.225.18:1935/vods3/_definst_/mp4:amazons3/webdevvideos/AF-Lesson1-Git/2-lesson1-git-CreatRepoAndCmdLine_720.mp4/playlist.m3u8',
+								title: 'Create a Repository and use Command Line to Clone'
+						},
+						{
+								file: 'http://54.200.225.18:1935/vods3/_definst_/mp4:amazons3/webdevvideos/AF-Lesson1-Git/3-lesson1-git-MakeChanges_720.mp4/playlist.m3u8',
+								title: 'Making Changes'
+						},
+						{
+							file: 'http://54.200.225.18:1935/vods3/_definst_/mp4:amazons3/webdevvideos/AF-Lesson1-Git/4-lesson1-git-StatusAddCommitPush_720.mp4/playlist.m3u8',
+								title: 'Git Commands: Status, Add, Commit, & Push'
+						},
+						{
+								file: 'http://54.200.225.18:1935/vods3/_definst_/mp4:amazons3/webdevvideos/AF-Lesson1-Git/5-lesson1-git-FetchPull_720.mp4/playlist.m3u8',
+								title: 'Git Commands: Fetch and Pull'
+						},
+						{
+							file: 'http://54.200.225.18:1935/vods3/_definst_/mp4:amazons3/webdevvideos/AF-Lesson1-Git/6-lesson1-git-Forking_720.mp4/playlist.m3u8',
+								title: 'Forking'
+						},
+						{
+								file: 'http://54.200.225.18:1935/vods3/_definst_/mp4:amazons3/webdevvideos/AF-Lesson1-Git/7-lesson1-git-Branches_720.mp4/playlist.m3u8',
+								title: 'Branches'
+						},
+						{
+							file: 'http://54.200.225.18:1935/vods3/_definst_/mp4:amazons3/webdevvideos/AF-Lesson1-Git/8-lesson1-git-ClassAndQ_720.mp4/playlist.m3u8',
+								title: 'Class.DevMounta.in & Q Info'
+						},
+
+						],
+			height: 360,
+			width: 640,
+			// primary: 'html5'
+		});
+
+
+			function loadPlaylistItem(myIndex) { 
+			playerInstance.playlistItem(myIndex);
+			playerInstance.play();
+		};
+
+</script>
+
 - Pre-Reading:
   - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
   - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
