@@ -91,7 +91,7 @@
   - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
   - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
 - Lesson Video:
-  - [Github](https://vimeo.com/groups/345952/videos/142188795) 1 Hour 6 Minutes
+  - [Github](https://vimeo.com/159861022) 1 Hour 11 Minutes
 - Learning Objectives
     - Students will understand and be able to use the command line for
       - creating a folder
