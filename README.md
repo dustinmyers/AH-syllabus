@@ -123,7 +123,7 @@
 - Pre-Reading:
   - [Codecademy HTML/CSS](http://www.codecademy.com/en/tracks/web)
 - Lesson Video:
-  - [HTML Basics](https://vimeo.com/groups/345952/videos/147497917) 2 Hours 7 Minutes
+  - [HTML Basics](https://vimeo.com/147497917) 2 Hours 7 Minutes
 - Learning Objectives
   - Students will understand the purpose of HTML
   - Students will understand the purpose of CSS
@@ -159,7 +159,7 @@
 - Pre-Reading:
   - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/345952/videos/147626538) 1 Hour 45 Minutes
+  - [HTML/CSS Positioning](https://vimeo.com/147626538) 1 Hour 45 Minutes
 - Learning Objectives
   - Students will be able to use Chrome Dev Tools to inspect their HTML/CSS
   - Students will understand the purpose of CSS
@@ -178,7 +178,7 @@
 - Pre-Reading:
   - [Positioning in CSS](http://quirksmode.org/css/css2/position.html)
 - Lesson Video:
-  - [Advanced HTML & CSS](https://vimeo.com/groups/345952/videos/140814999) 1 Hour 52 Minutes
+  - [Advanced HTML & CSS](https://vimeo.com/140814999) 1 Hour 52 Minutes
 - Learning Objectives
   - Students will understand and be able to explain the box model to someone else
   - Students will understand media queries and be able to implement them
@@ -234,7 +234,7 @@
 - Pre-Reading:
   - [Eloquent JavaScript - Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 - Lesson Video:
-  - [Javascript Fundamentals II & III](https://vimeo.com/groups/345952/videos/148132097) - This video covers content for two classes. 2 hours 22 minutes.
+  - [Javascript Fundamentals II & III](https://vimeo.com/148132097) - This video covers content for two classes. 2 hours 22 minutes.
 - Learning Objectives
   - Students will understand Arrays:
     - purpose
@@ -250,7 +250,7 @@
 - Pre-Reading:
   - [JS is Sexy - Objects](http://javascriptissexy.com/javascript-objects-in-detail/)
 - Lesson Video:
-  - [Javascript Fundamentals II & III](https://vimeo.com/groups/345952/videos/148132097) - Same video as yesterday. 2 hours 22 minutes.
+  - [Javascript Fundamentals II & III](https://vimeo.com/148132097) - Same video as yesterday. 2 hours 22 minutes.
 - Learning Objectives
   - Students will understand how Objects differ from Arrays
   - Students will understand use cases for objects
@@ -270,7 +270,7 @@
   - [JS is Sexy - Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
   - [JS is Sexy - Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 - Lesson Video:
-  - [JS Callbacks & Prototypes](https://vimeo.com/groups/345952/videos/148390556) 1 Hour 11 Minutes
+  - [JS Callbacks & Prototypes](https://vimeo.com/148390556) 1 Hour 11 Minutes
 - Learning Objectives
   - Students will understand synchronous vs asynchronous programming
   - Students will be able to talk about what a callback is
@@ -292,7 +292,7 @@
 - Pre-Reading:
   - [This with Clarity](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 - Lesson Video:
-  - [JS - The "this" keyword](https://vimeo.com/groups/345952/videos/148264150) 1 Hour 49 Minutes
+  - [JS - The "this" keyword](https://vimeo.com/148264150) 1 Hour 49 Minutes
 - Learning Objectives
   - the purpose of the ‘this’ keyword
     - 4 rules for determining what ‘this’ is bound to
@@ -330,7 +330,7 @@
 - Pre-Reading:
   - Find a video or an article that explains what the DOM is
 - Lesson Video:
-  - [jQuery I - Manipulating the DOM](https://vimeo.com/groups/345952/videos/148521032)
+  - [jQuery I - Manipulating the DOM](https://vimeo.com/148521032)
 - Mini Project:
   - [Paint](https://github.com/DevMountain/mini-paint)
 - Learning Objectives
@@ -368,13 +368,13 @@
 - Assessment:
 
 ## <a name="week6"></a> Week 6
-#### <a name="day61"></a> Day 1 - AngularJS I		
+#### <a name="day61"></a> Day 1 - AngularJS I       
 - Pre-Reading:
   - [Starting with Angular](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
   - [Conceptual Intro to Angular](http://paislee.io/a-conceptual-introduction-to-angularjs/)
   - [Watch "Angular in 60-ish Minutes"](https://www.youtube.com/watch?v=i9MHigUZKEM)
 - Lesson Video:
-  - [Angular I - Intro to Angular](https://vimeo.com/groups/345952/videos/148916498)
+  - [Angular I - Intro to Angular](https://vimeo.com/148916498)
 - Mini Project:
   - [Babies first Angular](https://github.com/DevMountain/mini-BabiesFirstAngular)
 - Learning Objectives
@@ -395,7 +395,7 @@
 - Pre-Reading:
   - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 - Lesson Video:
-  - [Angular II - Services](https://vimeo.com/groups/345952/videos/149049333)
+  - [Angular II - Services](https://vimeo.com/149049333)
 - Mini Project:
   - [User Profiles](https://github.com/DevMountain/mini-userProfiles)
 - Learning Objectives
@@ -423,7 +423,7 @@
   - [Angular's $http](https://egghead.io/lessons/angularjs-http)
   - [Promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 - Lesson Video:
-  - [Angular III - $http](https://vimeo.com/groups/345952/videos/149219126)
+  - [Angular III - $http](https://vimeo.com/149219126)
 - Mini Project:
   - [User Profiles II](https://github.com/DevMountain/mini-userProfiles2)
 - Learning Objectives
@@ -445,7 +445,7 @@
 - Pre-Reading:
   - [$q](http://www.webdeveasy.com/javascript-promises-and-angularjs-q-service/)
 - Lesson Video:
-  - [Angular IV - $q Promises](https://vimeo.com/groups/345952/videos/149314314)
+  - [Angular IV - $q Promises](https://vimeo.com/149314314)
 - Mini Project:
   - [User Profile III](https://github.com/DevMountain/mini-userProfiles3)
 - Learning Objectives
@@ -475,7 +475,7 @@
 - Pre-Reading:
   - [Routing with UI-Router](https://scotch.io/tutorials/angular-routing-using-ui-router)
 - Lesson Video:
-  - [Routing](https://vimeo.com/groups/345952/videos/150700908) - 1 hour 7 minutes
+  - [Routing](https://vimeo.com/150700908) - 1 hour 7 minutes
 - Install these before class!:
   - [Install Node - Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
   - [Install Node - Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
@@ -523,7 +523,7 @@
 - Pre-Reading:
   - [Directives](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
 - Lesson Video:
-  - [Directives](https://vimeo.com/groups/345952/videos/150825409) - 1 hour 41 minutes
+  - [Directives](https://vimeo.com/150825409) - 1 hour 41 minutes
 - Mini Project:
   - [Time Directive](https://github.com/DevMountain/mini-timeDirective)
 - Learning Objectives
@@ -566,7 +566,7 @@
 - Pre-Reading:
   - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
 - Lesson Video:
-  - [Firebase](https://vimeo.com/groups/345952/videos/150932130) - 1 hour 42 minutes
+  - [Firebase](https://vimeo.com/150932130) - 1 hour 42 minutes
 - Learning Objectives
   - Students will understand the term CRUD
   - Students will be able to use Firebase in angular to persist data to a server
@@ -589,7 +589,7 @@
 ## <a name="week10"></a> Week 10
 #### <a name="day101"></a> Day 1 - NodeJS I
 - Lesson Video:
-  - [NodeJS I](https://vimeo.com/groups/345952/videos/151691575) - 2 hours 42 minutes
+  - [NodeJS I](https://vimeo.com/151691575) - 2 hours 42 minutes
 - Mini Project:
   - [Siri](https://github.com/DevMountain/Siri)
 - Learning Objectives
@@ -608,7 +608,7 @@
 
 #### <a name="day102"></a> Day 2 - NodeJS II
 - Lesson Video:
-  - [NodeJS II](https://vimeo.com/groups/345952/videos/151814040) - 1 hour 55 minutes
+  - [NodeJS II](https://vimeo.com/151814040) - 1 hour 55 minutes
 - Mini Project:
   - Rewrite in Progress
 - Learning Objectives
@@ -625,7 +625,7 @@
 
 #### <a name="day103"></a> Day 3 - NodeJS III
 - Lesson Video:
-  - [Node III](https://vimeo.com/groups/345952/videos/145906798) - 2 hours 10 minutes
+  - [Node III](https://vimeo.com/145906798) - 2 hours 10 minutes
 - Mini Project:
   - Rewrite in Progress
 - Lesson Video:
@@ -643,7 +643,7 @@
 ## <a name="week11"></a> Week 11
 #### <a name="day111"></a> Day 1 - MongoDB I
 - Lesson Video:
-  - [Mongo I](https://vimeo.com/groups/345952/videos/140831164) - 1 hour 41 minutes
+  - [Mongo I](https://vimeo.com/140831164) - 1 hour 41 minutes
 - Before class:
   - Make sure you've installed MongoDB ([Mac](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/) or [PC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/))
 - Lesson Video:
@@ -661,7 +661,7 @@
 
 #### <a name="day112"></a> Day 2 - MongoDB II
 - Lesson Video:
-  - [Mongo II](https://vimeo.com/groups/345952/videos/146151652) - 1 hour 20 minutes
+  - [Mongo II](https://vimeo.com/146151652) - 1 hour 20 minutes
 - Mini Project:
   - [Mini-Birds Mongoose](https://github.com/DevMountain/mini-birds-mongoose)
 - Learning Objectives
@@ -674,7 +674,7 @@
 
 #### <a name="day113"></a> Day 3 -  MongoDB III
 - Lesson Video:
-  - [Mongo III](https://vimeo.com/groups/345952/videos/145931488) - 1 hour 40 minutes
+  - [Mongo III](https://vimeo.com/145931488) - 1 hour 40 minutes
  - Mini Project:
   - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/day2README.md)
  - Learning Objectives
