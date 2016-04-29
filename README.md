@@ -159,7 +159,7 @@
 - Pre-Reading:
   - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/147626538) 1 Hour 45 Minutes
+  - [HTML/CSS Positioning](https://www.youtube.com/playlist?list=PLFq09yYVYpcKGlp9ucinvBGUX19nmUZQh) 1 Hour 45 Minutes
 - Learning Objectives
   - Students will be able to use Chrome Dev Tools to inspect their HTML/CSS
   - Students will understand the purpose of CSS
