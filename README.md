@@ -178,7 +178,8 @@
 - Pre-Reading:
   - [Positioning in CSS](http://quirksmode.org/css/css2/position.html)
 - Lesson Video:
-  - [Advanced HTML & CSS](https://vimeo.com/140814999) 1 Hour 52 Minutes
+  -  [Advanced HTML & CSS w/Ben Callis](https://www.youtube.com/playlist?list=PLFq09yYVYpcJXW5JL5NkZ4KB9uMFr1wb0) 1 Hour 25 Minutes
+  - [Optional Advanced HTML & CSS lecture w/Jason Turner](https://vimeo.com/140814999) 1 Hour 52 Minutes
 - Learning Objectives
   - Students will understand and be able to explain the box model to someone else
   - Students will understand media queries and be able to implement them
