@@ -208,7 +208,7 @@
   - [Eloquent JavaScript - Functions](http://eloquentjavascript.net/03_functions.html)
 - Lesson Video:
   - [Intro to Javascript Fundamentals w/ Jeremy Robertson] (https://www.youtube.com/playlist?list=PLFq09yYVYpcLeYBOJfjmffzRNxyc0JGrR) 1 hours 53 minutes
-  - [Archive Video - Javascript Fundamentals w/ Jacob Turner (OPTIONAL)](https://vimeo.com/groups/339648/videos/147892710) 2 Hours 4 Minutes
+  - [Archive Video - Javascript Fundamentals w/ Jacob Turner (OPTIONAL)](https://vimeo.com/147892710) 2 Hours 4 Minutes
 - Learning Objectives
   - Students will understand how the web works:
     - front-end vs back-end
