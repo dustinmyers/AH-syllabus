@@ -229,6 +229,7 @@
   - [Everything you need to know about Scopes](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
 - Assessments
   - [JS Fundamentals I](https://codecard.io/a/cardio-preview/74hCukylV)
+    - Skip the last 2 questions  
   - [Advanced JS Problems](https://codecard.io/a/cardio-preview/N4cJ_s7lR)
 
 ## <a name="week3"></a> Week 3
