@@ -230,10 +230,23 @@
 - Assessments
   - [JS Fundamentals I](https://codecard.io/a/cardio-preview/74hCukylV)
     - Skip the last 2 questions  
-  - [Advanced JS Problems](https://codecard.io/a/cardio-preview/N4cJ_s7lR)
+- Black Diamond (Bonus push yourself material)
+  - [Advanced JS Problems](https://codecard.io/a/cardio-preview/N4cJ_s7lR) - These problems push farther into javascript than what we've taught so far, but they're great to come back to to gauge your progress.
 
 ## <a name="week3"></a> Week 3
-#### <a name="day21"></a> Day 1 - JavaScript Fundamentals II
+
+#### <a name="day31"></a> Day 1 - JavaScript Fundamentals II
+- Pre-Reading:
+  - [JS is Sexy - Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+- Learning Objectives
+  - Students will be able to define what a closure is
+  - Students will be able to identify when a closure is being used
+- Projects:
+  - [JavaScript Basics](https://github.com/DevMountain/JS-Basics) 
+    - Only do closures.js
+- Additional Reading:
+
+#### <a name="day32"></a> Day 2 - JS Fundamentals III
 - Pre-Reading:
   - [Eloquent JavaScript - Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 - Lesson Video:
@@ -249,7 +262,7 @@
   - [Array Fiddles](https://github.com/DevMountain/JS-Arrays)
 - Additional Reading:
 
-#### <a name="day32"></a> Day 2 - JS Fundamentals III
+#### <a name="day33"></a> Day 3 - JS Fundamentals IV
 - Pre-Reading:
   - [JS is Sexy - Objects](http://javascriptissexy.com/javascript-objects-in-detail/)
 - Lesson Video:
@@ -267,8 +280,9 @@
 - Additional Reading:
   - [High Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
-
-#### <a name="day33"></a> Day 3 - JS Advanced JS I
+  
+## <a name="week4"></a> Week 4
+#### <a name="day41"></a> Day 1 - Advanced JavaScript I
 - Pre-Reading:
   - [JS is Sexy - Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
   - [JS is Sexy - Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
@@ -290,8 +304,7 @@
 - Assessment
   - [JS Fundamentals V](https://codecard.io/a/cardio-preview/B4otuPc52)
 
-## <a name="week4"></a> Week 4
-#### <a name="day41"></a> Day 1 - Advanced JavaScript II
+#### <a name="day42"></a> Day 2 - Advanced JavaScript II
 - Pre-Reading:
   - [This with Clarity](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 - Lesson Video:
@@ -311,17 +324,6 @@
 - Additional Reading:
 - Assessment
   - [JS Fundamentals IV](https://codecard.io/a/cardio-preview/NY1gPKpju)
-
-#### <a name="day42"></a> Day 2 - Advanced JavaScript III
-- Pre-Reading:
-  - [JS is Sexy - Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
-- Learning Objectives
-  - Students will be able to define what a closure is
-  - Students will be able to identify when a closure is being used
-- Projects:
-  - [JavaScript Basics](https://github.com/DevMountain/JS-Basics) 
-    - Only do closures.js
-- Additional Reading:
 
 #### <a name="day43"></a> Day 3 - JavaScript Review
 - Pre-Reading:
