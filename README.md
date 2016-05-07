@@ -244,7 +244,11 @@
 - Projects:
   - [JavaScript Basics](https://github.com/DevMountain/JS-Basics) 
     - Only do closures.js
-- Additional Reading:
+- Assessments
+  - [JS Fundamentals I](https://codecard.io/a/cardio-preview/74hCukylV)
+    - All questions 
+- Black Diamond (Bonus push yourself material)
+  - [Advanced JS Problems](https://codecard.io/a/cardio-preview/N4cJ_s7lR)
 
 #### <a name="day32"></a> Day 2 - JS Fundamentals III
 - Pre-Reading:
