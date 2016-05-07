@@ -222,9 +222,9 @@
     - global and local scope
     - anonymous functions
     - return values and how to save the returned value to another variable
-  - Closures
 - Projects:
-  - [JavaScript Basics](https://github.com/DevMountain/JS-Basics)
+  - [JavaScript Basics](https://github.com/DevMountain/JS-Basics) 
+    - Only do Fns-and-scopes.js
 - Additional Reading:
   - [Everything you need to know about Scopes](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
 - Assessments
@@ -317,8 +317,9 @@
 - Learning Objectives
   - Students will be able to define what a closure is
   - Students will be able to identify when a closure is being used
-- Project:
-  - [Closure Practice](https://github.com/DevMountain/closurePractice)
+- Projects:
+  - [JavaScript Basics](https://github.com/DevMountain/JS-Basics) 
+    - Only do closures.js
 - Additional Reading:
 
 #### <a name="day43"></a> Day 3 - JavaScript Review
