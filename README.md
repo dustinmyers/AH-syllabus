@@ -254,7 +254,8 @@
 - Pre-Reading:
   - [Eloquent JavaScript - Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 - Lesson Video:
-  - [Javascript Fundamentals II & III](https://vimeo.com/148132097) - This video covers content for two classes. 2 hours 22 minutes.
+  - Javascript Fundamentals II & III w/ Jeremy Robertson] (https://www.youtube.com/playlist?list=PLFq09yYVYpcIHr6k0SxZfoU7cQttkkw52) - 1 hr 53 minutes
+  - [Javascript Fundamentals II & III w/ Jeremy Robertson (Unedited)](https://vimeo.com/148132097) - This video covers content for two classes. 2 hours 22 minutes.
 - Learning Objectives
   - Students will understand Arrays:
     - purpose
