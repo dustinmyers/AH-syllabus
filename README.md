@@ -222,6 +222,10 @@
     - global and local scope
     - anonymous functions
     - return values and how to save the returned value to another variable
+- Practice:
+  - Level 1 : https://codecard.io/a/sequence/BYTuMSKsX
+  - Level 2 : https://codecard.io/a/sequence/B4D9MGm5X
+  - Level 3 : https://codecard.io/a/sequence/dEvmVkM5f
 - Projects:
   - [JavaScript Basics](https://github.com/DevMountain/JS-Basics) 
     - Only do Fns-and-scopes.js
@@ -241,6 +245,9 @@
 - Learning Objectives
   - Students will be able to define what a closure is
   - Students will be able to identify when a closure is being used
+- Practice
+  - https://codecard.io/a/sequence/dE5_lLSsX
+  - https://codecard.io/a/sequence/N4pvJbW0y
 - Projects:
   - [JavaScript Basics](https://github.com/DevMountain/JS-Basics) 
     - Only do closures.js
