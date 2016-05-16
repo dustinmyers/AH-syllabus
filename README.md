@@ -249,8 +249,7 @@
   - https://codecard.io/a/sequence/dE5_lLSsX
   - https://codecard.io/a/sequence/N4pvJbW0y
 - Projects:
-  - [JavaScript Basics](https://github.com/DevMountain/JS-Basics) 
-    - Only do closures.js
+  - [JavaScript Closures](https://github.com/DevMountain/JS-Closures) 
 - Assessments
   - [JS Fundamentals I](https://codecard.io/a/cardio-preview/74hCukylV)
     - All questions 
