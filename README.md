@@ -227,7 +227,7 @@
   - Level 2 : https://codecard.io/a/sequence/B4D9MGm5X
   - Level 3 : https://codecard.io/a/sequence/dEvmVkM5f
 - Projects:
-  - [JavaScript Basics](https://github.com/DevMountain/JS-Basics) 
+  - [JavaScript Basics](https://github.com/DevMountain/JS-Basics)
     - Only do Fns-and-scopes.js
 - Additional Reading:
   - [Everything you need to know about Scopes](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
@@ -249,10 +249,10 @@
   - https://codecard.io/a/sequence/dE5_lLSsX
   - https://codecard.io/a/sequence/N4pvJbW0y
 - Projects:
-  - [JavaScript Closures](https://github.com/DevMountain/JS-Closures) 
+  - [JavaScript Closures](https://github.com/DevMountain/JS-Closures)
 - Assessments
   - [JS Fundamentals I](https://codecard.io/a/cardio-preview/74hCukylV)
-    - All questions 
+    - All questions
 - Black Diamond (Bonus push yourself material)
   - [Advanced JS Problems](https://codecard.io/a/cardio-preview/N4cJ_s7lR)
 
@@ -291,12 +291,11 @@
 - Additional Reading:
   - [High Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
-  
+
 ## <a name="week4"></a> Week 4
 #### <a name="day41"></a> Day 1 - Advanced JavaScript I
 - Pre-Reading:
   - [JS is Sexy - Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
-  - [JS is Sexy - Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 - Lesson Video:
   - [JS Callbacks & Prototypes](https://vimeo.com/148390556) 1 Hour 11 Minutes
 - Learning Objectives
@@ -304,11 +303,8 @@
   - Students will be able to talk about what a callback is
   - Students will understand the use cases of callbacks
   - Students will be able to identify and use callbacks
-  - Students will understand what prototypes are in JavaScript
-  - Students will be able to add a method on a function’s prototype and create instances of that function that invoke the prototypes method
 - Projects:
   - [Callback Practice](https://github.com/DevMountain/callbackPractice)
-  - [Constructors](https://github.com/DevMountain/ConstructorConductor)
   - [Utilities](https://github.com/DevMountain/utilities)
 - Additional Reading:
   - [Electronic Life](http://eloquentjavascript.net/07_elife.html)
@@ -330,8 +326,11 @@
         - bind
       - new binding
       - Default Binding
+  - Students will understand what prototypes are in JavaScript
+  - Students will be able to add a method on a function’s prototype and create instances of that function that invoke the prototypes method
 - Projects:
   - [The This Keyword](https://github.com/DevMountain/the-keyword-this)
+  - [Constructors](https://github.com/DevMountain/ConstructorConductor)
 - Additional Reading:
 - Assessment
   - [JS Fundamentals IV](https://codecard.io/a/cardio-preview/NY1gPKpju)
@@ -346,6 +345,7 @@
 #### <a name="day51"></a> Day 1 - jQuery I
 - Pre-Reading:
   - Find a video or an article that explains what the DOM is
+  - [JS is Sexy - Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 - Lesson Video:
   - [jQuery I - Manipulating the DOM](https://vimeo.com/148521032)
 - Mini Project:
@@ -364,7 +364,7 @@
 #### <a name="day52"></a> Day 2 - jQuery II
 - Pre-Reading:
 - Lesson Video:
-  - No video for this lesson. Review yesterday's project, then start today's project. 
+  - No video for this lesson. Review yesterday's project, then start today's project.
 - Learning Objectives
   - Students will understand the DOM
   - Students will be able to make basic manipulations to the DOM
@@ -374,8 +374,8 @@
 
 
 #### <a name="day53"></a> Day 3 - jQuery II cont.
-- Lesson Video 
-  - No video for today. Continue working on the Twitter Clone project. 
+- Lesson Video
+  - No video for today. Continue working on the Twitter Clone project.
 - Learning Objectives
   - Students will understand the DOM
   - Students will be able to make basic manipulations to the DOM
@@ -400,13 +400,13 @@
   - Students will be able to, from scratch, build a basic angular application, put data on a controller's scope,      and bind that data to the view
   - Students will be able to ng-repeat over data
   - Students will be able to filter data
-- Weeklong Project: 
-  - [DevMt.In - Day One](https://github.com/DevMountain/dev-mt-in)   
-- Additional Reading:
-- Assessment
-  - [AngularJS Day 1](https://codecard.io/a/cardio-preview/B4yCwFR8R)
-- Additional Project:
+- Project:
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
+- Assessment:
+  - [AngularJS Day 1](https://codecard.io/a/cardio-preview/B4yCwFR8R)
+
+- Weeklong Challenge:
+  - [DevMt.In - Day One](https://github.com/DevMountain/dev-mt-in)   
 
 #### <a name="day62"></a> Day 2 - AngularJS II
 - Pre-Reading:
@@ -420,18 +420,18 @@
   - Students will know how to inject services into their controllers
   - Students will know how to call methods on their services from in their controllers and put the response on        $scope
   - know the difference between factories and services
-- Project:
-  - [DevMt.In - Day Two](https://github.com/DevMountain/dev-mt-in)
+
 - Additional Reading:
 - Assessment
   - [AngularJS II - Services](https://codecard.io/a/cardio-preview/dYsMX9ChR)
 - Additional Project:
   - [Quote Book](https://github.com/DevMountain/quoteBook)
-
+- Weeklong Challenge:
+  - [DevMt.In - Day Two](https://github.com/DevMountain/dev-mt-in)
 #### <a name="day63"></a> Day 3 - AngularJS Workday
 - Lesson Video:
-  - No video today. Continue working on the Angular project, mini-projects, or the additional projects.
-- Project:
+  - No video today. Continue working on the Angular project, mini-projects, or the weeklong challenge.
+- Weeklong Challenge:
   - [DevMt.In - Day Three](https://github.com/DevMountain/dev-mt-in)
 
 ## <a name="week7"></a> Week 7
@@ -449,12 +449,11 @@
   - Students will be able to explain what AJAX is
   - Students will make an ajax request with angular, call .then on the promise and add that data to the $scope
 - Project:
-  - [DevMt.In - Day Three](https://github.com/DevMountain/dev-mt-in)
-- Additional Reading:
+  - [Chatroom](https://github.com/DevMountain/chatroom)
 - Assessment
   - [AngularJS III - $http](https://codecard.io/a/cardio-preview/7465nq9JV)
-- Additional Project:
-  - [Chatroom](https://github.com/DevMountain/chatroom)
+- Weeklong Challenge:
+  - [DevMt.In - Day Three](https://github.com/DevMountain/dev-mt-in)
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
@@ -470,14 +469,14 @@
   - Students will be able to use outside directives and know how to inject those modules into their application
   - Students will be able to create, return, and resolve their own promises with $q
 - Project:
-  - [DevMt.In - Day Four](https://github.com/DevMountain/dev-mt-in)
-- Project:
   - [iTunes API](https://github.com/DevMountain/itunes)
 - Additional Reading:
   - [The Power of Q](https://www.youtube.com/watch?v=33kl0iQByME)
   - [JSONP](https://en.wikipedia.org/wiki/JSONP)
 - Assessment
   - [AngularJS IV - APIs](https://codecard.io/a/cardio-preview/Bri37FtZV)
+- Weeklong Challenge:
+  - [DevMt.In - Day Four](https://github.com/DevMountain/dev-mt-in)
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
@@ -503,12 +502,14 @@
   - Students will be able to set up a basic routing system with multiple views and controllers using UI-Router
   - Students will be able to use resolve to resolve data and pass in data to their controller before theirn controller initializes
   - Students will be able to use stateParams to gather data from the URL
+
 - Project:
-  - [Quiz App Repo](https://github.com/DevMountain/quiz) (Use this to reference the Githun repo)
-  - [Quiz App Project Guide - Day 1](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
-- Additional Reading:
-- Assessment
+  - [Catz and Dogz](http://projectguide.devmounta.in/#/catz-and-dogz)
+- Assessment:
   - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
+- Weeklong Challenge:
+  - [Quiz App Repo](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 1](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
@@ -527,12 +528,14 @@
   - Students will be able to set up a basic routing system with multiple views and controllers using UI-Router
   - Students will be able to use resolve to resolve data and pass in data to their controller before theirn controller initializes
   - Students will be able to use stateParams to gather data from the URL
+
 - Project:
-  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
-  - [Quiz App Project Guide - Day 1](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
-- Additional Reading:
+  - [Catz and Dogz](http://projectguide.devmounta.in/#/catz-and-dogz) Continue working on Catz and Dogz or work on the weeklong challenge
 - Assessment
   - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
+- Weeklong Challenge:
+  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 1](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)  
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
@@ -546,14 +549,14 @@
 - Learning Objectives
   - Students will understand how Directives fit into the Angular ecosystem
   - Students will be able to create a custom directive and use it in a view
-- Project:
-  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
-  - [Quiz App Project Guide - Day 2](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
 - Additional Reading:
   - [PRankings Directive](https://github.com/squireaj/PRankings)
   - [Dave Smith Presentation on Custom Directives](https://www.youtube.com/watch?v=UMkd0nYmLzY)
 - Assessment
   - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
+- Weeklong Project:
+  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
+  - [Quiz App Project Guide - Day 2](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
