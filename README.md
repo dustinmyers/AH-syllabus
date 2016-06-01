@@ -424,10 +424,11 @@
 - Additional Reading:
 - Assessment
   - [AngularJS II - Services](https://codecard.io/a/cardio-preview/dYsMX9ChR)
-- Additional Project:
+- Project:
   - [Quote Book](https://github.com/DevMountain/quoteBook)
 - Weeklong Challenge:
   - [DevMt.In - Day Two](https://github.com/DevMountain/dev-mt-in)
+  
 #### <a name="day63"></a> Day 3 - AngularJS Workday
 - Lesson Video:
   - No video today. Continue working on the Angular project, mini-projects, or the weeklong challenge.
