@@ -446,7 +446,7 @@
   - [User Profiles II](https://github.com/DevMountain/mini-userProfiles2)
 - Learning Objectives
   - Students will be able to explain what JSON is
-  - Students will be able to explain was REST is
+  - Students will be able to explain what REST is
   - Students will be able to explain what AJAX is
   - Students will make an ajax request with angular, call .then on the promise and add that data to the $scope
 - Project:
