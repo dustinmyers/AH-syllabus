@@ -505,7 +505,7 @@
   - Students will be able to use stateParams to gather data from the URL
 
 - Project:
-  - [Catz and Dogz](http://projectguide.devmounta.in/#/catz-and-dogz)
+  - [DevMtn Travels](http://projectguide.devmounta.in/#/DevMtn-Travels)
 - Assessment:
   - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
 - Weeklong Challenge:
