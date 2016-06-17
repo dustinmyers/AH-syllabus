@@ -39,9 +39,9 @@
   - [Day 3](#day73)
 
 - [Week 8](#week8)
-  - [Day 1](#day71)
-  - [Day 2](#day72)
-  - [Day 3](#day73)
+  - [Day 1](#day81)
+  - [Day 2](#day82)
+  - [Day 3](#day83)
 
 - [Week 9](#week9)
   - [Day 1](#day91)
