@@ -693,7 +693,7 @@
 - Lesson Video:
   - [Mongo III](https://vimeo.com/145931488) - 1 hour 40 minutes
  - Mini Project:
-  - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/day2README.md)
+  - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/PART-II-README.md)
  - Learning Objectives
   - Understand the concept of relationships
   - Understand the different types of relationships, and when to use them
