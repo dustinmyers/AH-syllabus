@@ -428,7 +428,7 @@
   - [Quote Book](https://github.com/DevMountain/quoteBook)
 - Weeklong Challenge:
   - [DevMt.In - Day Two](https://github.com/DevMountain/dev-mt-in)
-  
+
 #### <a name="day63"></a> Day 3 - AngularJS Workday
 - Lesson Video:
   - No video today. Continue working on the Angular project, mini-projects, or the weeklong challenge.
@@ -765,8 +765,6 @@
 - Pre-Reading:
 - Lesson Video:
   No video for this lesson.
-- Mini Project:
-  - [mini-todo-list](https://github.com/ReactWeek/mini1-todolist)
 - Learning Objectives
   - Understand how React compares to other Front End frameworks like Angular and Ember
   - Understand how to use Webpack to set up a build process for your React App
@@ -776,37 +774,33 @@
 CSS in React
   - Understand how to keep your components state up to date as well as invoke other methods in your component.
 - Project:
-  - [todo-collection](https://github.com/ReactWeek/todo-collection)
+  - [React Mail](https://github.com/DevMountain/react-mail)
 - Additional Reading:
 
 #### <a name="day152"></a> Day 2 - React I Workday
 - Pre-Reading:
 - Lesson Video:
   No Video for Today
-- Mini Project:
-  - [mini-chatroom](https://github.com/ReactWeek/mini2-chatroom)
 - Learning Objectives
   - Understand the Life Cycle of a Components
   - Understand how to use propTypes and getDefaultProps
   - Understand what Mixins are and how they’re useful
   - How to use React w/ jQuery and specifically to make Ajax requests
 - Project:
-  - [react-tunes](https://github.com/ReactWeek/react-tunes)
+  - [React Mail](https://github.com/DevMountain/react-mail)
 - Additional Reading:
 
 #### <a name="day153"></a> Day 3 - React II
 - Pre-Reading:
 - Lesson Video:
   No video for this lesson.
-- Mini Project:
-  - [mini-chatroom](https://github.com/ReactWeek/mini2-chatroom)
 - Learning Objectives
   - Understand the Life Cycle of a Components
   - Understand how to use propTypes and getDefaultProps
   - Understand what Mixins are and how they’re useful
   - How to use React w/ jQuery and specifically to make Ajax requests
 - Project:
-  - [react-tunes](https://github.com/ReactWeek/react-tunes)
+  - [React Emporium](https://github.com/DevMountain/react-emporium)
 - Additional Reading:
 
 ## <a name="week16"></a> Week 16
@@ -814,15 +808,13 @@ CSS in React
 - Pre-Reading:
 - Lesson Video:
   No Video for Today
-- Mini Project:
-  - [mini-chatroom](https://github.com/ReactWeek/mini2-chatroom)
 - Learning Objectives
   - Understand the Life Cycle of a Components
   - Understand how to use propTypes and getDefaultProps
   - Understand what Mixins are and how they’re useful
   - How to use React w/ jQuery and specifically to make Ajax requests
 - Project:
-  - [react-tunes](https://github.com/ReactWeek/react-tunes)
+  - [React Emporium](https://github.com/DevMountain/react-emporium)
 - Additional Reading:
 
 #### <a name="day162"></a> Day 2 - React III
@@ -839,13 +831,15 @@ CSS in React
     - containers
     - reducers
 - Project:
-  - [note-taker](https://github.com/ReactWeek/github-notetaker)
+  - [React Friends](https://github.com/DevMountain/react-friends)
 - Additional Reading:
 
 #### <a name="day163"></a> Day 3 - Final Workday / Class Wrap-up
 - Pre-Reading:
 - Lesson Video:
   No Video for Today
+- Project:
+  - [React Friends](https://github.com/DevMountain/react-friends)  
 
 ### Copyright
 
