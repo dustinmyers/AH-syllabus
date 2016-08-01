@@ -774,7 +774,7 @@
 CSS in React
   - Understand how to keep your components state up to date as well as invoke other methods in your component.
 - Project:
-  - [React Mail](https://github.com/DevMountain/react-mail)
+  - [React Friends](https://github.com/DevMountain/react-friends)
 - Additional Reading:
 
 #### <a name="day152"></a> Day 2 - React I Workday
@@ -787,7 +787,7 @@ CSS in React
   - Understand what Mixins are and how they’re useful
   - How to use React w/ jQuery and specifically to make Ajax requests
 - Project:
-  - [React Mail](https://github.com/DevMountain/react-mail)
+  - [React Friends](https://github.com/DevMountain/react-friends)
 - Additional Reading:
 
 #### <a name="day153"></a> Day 3 - React II
@@ -821,8 +821,6 @@ CSS in React
 - Pre-Reading:
 - Lesson Video:
   No video for this lesson.
-- Mini Project:
-  - [mini-flux](https://github.com/ReactWeek/mini4-todoflux)
 - Learning Objectives
   - Understand the purpose and benefits of Redux
   - Understand how to architect a Redux app with the following
@@ -831,7 +829,7 @@ CSS in React
     - containers
     - reducers
 - Project:
-  - [React Friends](https://github.com/DevMountain/react-friends)
+  - [React Mail](https://github.com/DevMountain/react-mail)
 - Additional Reading:
 
 #### <a name="day163"></a> Day 3 - Final Workday / Class Wrap-up
@@ -839,7 +837,7 @@ CSS in React
 - Lesson Video:
   No Video for Today
 - Project:
-  - [React Friends](https://github.com/DevMountain/react-friends)  
+  - [React Mail](https://github.com/DevMountain/react-mail)
 
 ### Copyright
 
