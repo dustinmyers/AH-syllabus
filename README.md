@@ -800,7 +800,7 @@ CSS in React
   - Understand what Mixins are and how they’re useful
   - How to use React w/ jQuery and specifically to make Ajax requests
 - Project:
-  - [React Emporium](https://github.com/DevMountain/react-emporium)
+  - [React Mail](https://github.com/DevMountain/react-mail)
 - Additional Reading:
 
 ## <a name="week16"></a> Week 16
@@ -814,7 +814,7 @@ CSS in React
   - Understand what Mixins are and how they’re useful
   - How to use React w/ jQuery and specifically to make Ajax requests
 - Project:
-  - [React Emporium](https://github.com/DevMountain/react-emporium)
+  - [React Mail](https://github.com/DevMountain/react-mail)
 - Additional Reading:
 
 #### <a name="day162"></a> Day 2 - React III
@@ -829,7 +829,7 @@ CSS in React
     - containers
     - reducers
 - Project:
-  - [React Mail](https://github.com/DevMountain/react-mail)
+  - [React Emporium](https://github.com/DevMountain/react-emporium)
 - Additional Reading:
 
 #### <a name="day163"></a> Day 3 - Final Workday / Class Wrap-up
@@ -837,7 +837,7 @@ CSS in React
 - Lesson Video:
   No Video for Today
 - Project:
-  - [React Mail](https://github.com/DevMountain/react-mail)
+  - [React Emporium](https://github.com/DevMountain/react-emporium)
 
 ### Copyright
 
