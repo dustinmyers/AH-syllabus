@@ -450,7 +450,7 @@
   - Students will be able to explain what AJAX is
   - Students will make an ajax request with angular, call .then on the promise and add that data to the $scope
 - Project:
-  - [Chatroom](https://github.com/DevMountain/chatroom)
+  - [Cookie Chat](https://github.com/DevMountain/cookie-chat)
 - Assessment
   - [AngularJS III - $http](https://codecard.io/a/cardio-preview/7465nq9JV)
 - Weeklong Challenge:
