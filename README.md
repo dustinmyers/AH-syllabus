@@ -509,8 +509,7 @@
 - Assessment:
   - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
 - Weeklong Challenge:
-  - [Quiz App Repo](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
-  - [Quiz App Project Guide - Day 1](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
+  - [DevMt.In](https://github.com/DevMountain/dev-mt-in)
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
@@ -522,8 +521,6 @@
 - Install these before class!:
   - [Install Node - Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
   - [Install Node - Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
-- Mini Project:
-  - [Quiz](https://github.com/DevMountain/mini-Routing)
 - Learning Objectives
   - Students will understand the methodology behind routing and templating
   - Students will be able to set up a basic routing system with multiple views and controllers using UI-Router
@@ -535,8 +532,7 @@
 - Assessment
   - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
 - Weeklong Challenge:
-  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
-  - [Quiz App Project Guide - Day 1](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)  
+  - [DevMt.In](https://github.com/DevMountain/dev-mt-in)
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
