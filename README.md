@@ -551,9 +551,8 @@
   - [Dave Smith Presentation on Custom Directives](https://www.youtube.com/watch?v=UMkd0nYmLzY)
 - Assessment
   - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
-- Weeklong Project:
-  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
-  - [Quiz App Project Guide - Day 2](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
+- Project:
+  - [Lesson-Hider-Directive](https://github.com/DevMountain/lesson-hider-directive)
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
@@ -578,7 +577,7 @@
 - Class Survey:
   - [Today's Survey](http://goo.gl/forms/ZSneykVHsy)
 
-#### <a name="day92"></a> Day 2 - Firebase I
+#### <a name="day92"></a> Day 2 - ES6
 - Pre-Reading:
   - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
 - Lesson Video:
