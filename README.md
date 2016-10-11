@@ -569,7 +569,7 @@
   - Students will understand how Directives fit into the Angular ecosystem
   - Students will be able to create a custom directive and use it in a view
 - Project:
-  - [Lesson-Hider-Directive](https://github.com/DevMountain/DMWebAH-Syllabus#week9)
+  - [Lesson-Hider-Directive](https://github.com/DevMountain/lesson-hider-directive)
 - Additional Reading:
   - [PRankings Directive](https://github.com/squireaj/PRankings)
   - [Dave Smith Presentation on Custom Directives](https://www.youtube.com/watch?v=UMkd0nYmLzY)
