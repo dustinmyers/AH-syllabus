@@ -569,8 +569,7 @@
   - Students will understand how Directives fit into the Angular ecosystem
   - Students will be able to create a custom directive and use it in a view
 - Project:
-  - [Quiz App](https://github.com/DevMountain/quiz) (Use this to reference the Github repo)
-  - [Quiz App Project Guide - Day 2](http://projectguide.devmounta.in/#/quiz) (Use this to start and build the project)
+  - [Lesson-Hider-Directive](https://github.com/DevMountain/DMWebAH-Syllabus#week9)
 - Additional Reading:
   - [PRankings Directive](https://github.com/squireaj/PRankings)
   - [Dave Smith Presentation on Custom Directives](https://www.youtube.com/watch?v=UMkd0nYmLzY)
