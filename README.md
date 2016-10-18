@@ -608,8 +608,7 @@
   - Student can create a HTTP NodeJS server using express
   - Students can explain endpoints and create basic ones testing them with Postman
 - Project:
-  - [Trello App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
-  - [Trello App Project Guide - Day 1](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
+  - [Chatty App](https://github.com/DevMountain/chatty)
 - Additional Reading:
   - https://www.thenewboston.com/videos.php?cat=355
 
@@ -617,7 +616,7 @@
 - Lesson Video:
   - [NodeJS II](https://vimeo.com/151814040) - 1 hour 55 minutes
 - Mini Project:
-  - Rewrite in Progress
+  - Review Chatty/Build a basic API
 - Learning Objectives
   - Student can require other .js files in the project
   - Student can use bodyParser to get data out of the body
@@ -626,23 +625,21 @@
   - Student understands the request response lifecycle in express including the order in which functions are called
   - Student can utilize middleware
 - Project:
-  - [Trello App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
-  - [Trello App Project Guide - Day 2](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
+  - [Personal API](https://github.com/DevMountain/personal-api)
 - Additional Reading:
 
 #### <a name="day103"></a> Day 3 - NodeJS III
 - Lesson Video:
   - [Node III](https://vimeo.com/145906798) - 2 hours 10 minutes
 - Mini Project:
-  - Rewrite in Progress
+  - [Simple Node](https://github.com/DevMountain/simple-node-connect-drill)
 - Learning Objectives
   - Student can use Express to serve static files
   - Student can use routing in Express to create basic API endpoints
   - Student can use route params to make dynamic endpoints
   - Student can build a front-end Angular application that connects to a back-end NodeJS API
 - Project:
-  - [Trello App](https://github.com/DevMountain/trello-clone) (Use this to reference the Github repo)
-  - [Trello App Project Guide - Day 3](http://projectguide.devmounta.in/#/trello-clone) (Use this to start and build the project)
+  - [User Profiles](https://github.com/DevMountain/user-profiles)
 - Additional Reading:
 
 ## <a name="week11"></a> Week 11
